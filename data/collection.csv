@@ -1,5 +1,7 @@
 "card_id","owned_copies","card_name","set","rarity","mapping_status"
-"PK_000010","14","Bulbasaur","A1","C","Matched public database"
+"PK_000010","3","Bulbasaur","PROMO-A","PROMO","Artwork confirmed by in-game screenshot"
+"PK_000010_A1_001","9","Bulbasaur","A1 / A4b","◊","Artwork confirmed by in-game screenshot"
+"PK_000010_A1_227","2","Bulbasaur","A1","☆","Artwork confirmed by in-game screenshot"
 "PK_000020","11","Ivysaur","A1","U","Matched public database"
 "PK_000030","1","Venusaur","A1","R","Matched public database"
 "PK_000040","3","Venusaur ex","A1","RR","Matched public database"
