@@ -1,5 +1,7 @@
 "card_id","card_name","set","collector_number","owned_copies","verification_status","reason","expansion_loaded","gameplay_set_size","fetch_error","candidate_set","candidate_collector_number","candidate_note"
-"PK_000010","Bulbasaur","PROMO-A","23","14","VERIFIED","Exact set/number/name match","yes","117","","","",""
+"PK_000010","Bulbasaur","PROMO-A","23","3","VERIFIED","Artwork confirmed by in-game screenshot","yes","","","","",""
+"PK_000010_A1_001","Bulbasaur","A1","1","9","VERIFIED","Artwork confirmed by in-game screenshot","yes","","","","",""
+"PK_000010_A1_227","Bulbasaur","A1","227","2","VERIFIED","Artwork confirmed by in-game screenshot","yes","","","","",""
 "PK_000020","Ivysaur","A4b","4","11","VERIFIED","Exact set/number/name match","yes","353","","","","No gameplay fingerprint found"
 "PK_000030","Venusaur","PROMO-A","18","1","VERIFIED","Exact set/number/name match","yes","117","","","",""
 "PK_000040","Venusaur ex","A4b","5","3","VERIFIED","Exact set/number/name match","yes","353","","","","No gameplay fingerprint found"
